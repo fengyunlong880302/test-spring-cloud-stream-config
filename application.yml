@@ -1,0 +1,7 @@
+#配置文件中使用maven变量，例子 "@project.artifactId@"
+server:
+  port: 8088
+  max-http-header-size: 128KB
+
+
+
